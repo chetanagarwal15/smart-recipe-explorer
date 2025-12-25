@@ -27,7 +27,7 @@ Note: Due to Vercel serverless limitations with FastAPI (ASGI),
 Swagger UI (`/docs`) may not render correctly in production,
 though all APIs work correctly when run locally.
 
-## ⚙️ How to Run the Project Locally
+## How to Run the Project Locally
 
 ### 1. Clone the Repository
 ```bash
