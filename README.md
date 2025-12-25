@@ -18,6 +18,14 @@ This project is developed as part of a technical assessment for the Python AI/ML
 - Version Control: Git & GitHub
 
 ---
+## Deployment (Vercel)
+
+The application is deployed on Vercel as a Python serverless function.
+The root endpoint is accessible and confirms successful deployment.
+
+Note: Due to Vercel serverless limitations with FastAPI (ASGI),
+Swagger UI (`/docs`) may not render correctly in production,
+though all APIs work correctly when run locally.
 
 ## ⚙️ How to Run the Project Locally
 
